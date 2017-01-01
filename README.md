@@ -1,4 +1,4 @@
-vm-shim
+vm-shim - [edited](https://github.com/frdl/vm-frdl/tree/master/node_modules/webfan) by @frdl
 =======
 
 [![Build Status](https://travis-ci.org/dfkaye/vm-shim.png)](https://travis-ci.org/dfkaye/vm-shim)
@@ -151,6 +151,16 @@ View both test types at the console by running:
     
 history
 -------------
+[edited 2017](https://github.com/frdl/vm-frdl/tree/master/node_modules/webfan) by @frdl
++ `vm#.createContext`
++ `vm#.createScript`
++ `script.runInThisContext()`
++ `script.runInNewContext([sandbox])`
++ `vm#.Script`
++ options.compile=
+  - custom Function
+  - typescript ('string' === typeof (options.compile='text/typescript'))
+
 Just noting for the record:
 
 + Original idea emerged late at night 17 SEPT 2013 
