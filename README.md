@@ -1,4 +1,4 @@
-vm-shim - [edited](https://github.com/frdl/vm-frdl/tree/master/node_modules/webfan) by @frdl
+[vm-shim](https://github.com/dfkaye/vm-shim) - [edited](https://github.com/frdl/vm-frdl/tree/master/node_modules/webfan) by @frdl
 =======
 
 [![Build Status](https://travis-ci.org/dfkaye/vm-shim.png)](https://travis-ci.org/dfkaye/vm-shim)
